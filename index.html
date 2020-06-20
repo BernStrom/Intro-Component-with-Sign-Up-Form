@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <title>Intro component with sign up form</title>
+    <script src="script.js" async></script>
+  </head>
+
+  <body>
+    <main>
+      <section class="intro"> <!-- Intro Section -->
+        <h1>Learn to code by watching others</h1>
+        <p>See how experienced developers solve problems in real-time. Watching scripted tutorials is great, but understanding how developers think is invaluable.</p>
+      </section>
+
+      <section> <!-- Sign Up Section-->
+        <div>
+          <button class="top-submit-btn" type="submit">Try it free 7 days <span>then $20/mo. thereafter</span></button>
+        </div>
+
+        <form action="/submit.php" method="POST">
+          <div class="input-form">
+            <div>
+              <input class ="fname-field" type="text" name="first_name" pattern="[A-Za-z]{1,255}" placeholder="First Name">
+              <p class="fname-error-message fname-success-message txt"></p>
+            </div>
+            
+            <div>
+              <input class= "lname-field" type="text" name="last_name" pattern="[A-Za-z]{1,255}" placeholder="Last Name">
+              <p class="lname-error-message lname-success-message txt"></p>
+            </div>
+
+            <div>
+              <input class="email-field" type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" placeholder="Email Address">
+              <p class="email-error-message email-success-message txt"></p>
+            </div>
+            
+            <div>
+              <input class="pwd-field" type="password" name="pwd" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" placeholder="Password">
+              <p class="pwd-error-message pwd-success-message txt"></p>
+            </div>
+            
+            <div>
+              <button class="btm-submit-btn" type="submit">Claim your free trial </button>
+            </div>
+            
+            <p>By clicking the button, you are agreeing to our <span class="terms">Terms and Services</span></p>
+          </div>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
