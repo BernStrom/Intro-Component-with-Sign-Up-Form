@@ -1,8 +1,17 @@
+<p align="center">
+  <a href="#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera_flash-screenshots-of-responsive-design">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
 ## Intro component with sign up form
 
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## 👋 Welcome!
 
 Thanks for checking out this project.
 
@@ -33,7 +42,7 @@ And don't forget the core of it all, _**Happy coding!🚀**_
 _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it is only available through hovering over with a mouse cursor.**_
 ## Building your project
 
-## Technical Components :gear:
+## :gear: Technical Components
 
 * Flexbox
 
@@ -41,11 +50,11 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 
 * DOM Manipulation and Event Handlers
 
-## Attribution :bookmark:
+## :bookmark: Attribution
 
 [Responsive design testing app by Sizzy](https://a.paddle.com/v2/click/49831/114619?link=1947/ "Sizzy.co")
 
-## Screenshots of Responsive Design :camera_flash:
+## :camera_flash: Screenshots of Responsive Design
 
 #### Phone ()
 ![Page preview on ](./screenshots/.png)
