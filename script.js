@@ -78,6 +78,7 @@ const log = event => {
     emailErrorMessage.textContent = 'Looks like this is not an email';
     emailErrorMessage.classList.add('error-txt');
     emailInput.classList.add('failed');
+    event.preventDefault();
   } else {
     emailSuccessMessage = 'Email OK';
     emailInput.classList.add('success');
