@@ -236,3 +236,10 @@ form {
         padding: 0 11%;
     }
 }
+
+/* Any devices, from min. of 545px to max. of 1200px */
+@media only screen and (min-width: 545px) and (max-width: 1200px) {
+    .top-submit-btn {
+        padding: 0 15%;
+    } 
+}
