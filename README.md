@@ -59,7 +59,7 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 ![Page preview on ](./screenshots/iPhone-11-Pro_(375x812).png)
 <hr />
 
-#### Tablet w/ browser UI (iPad Pro 12.9 @ 1024 x 1366) (Landscape View)
+#### Tablet w/ device frame (iPad Pro 12.9 @ 1024 x 1366) (Landscape View)
 ![Page preview on ](./screenshots/iPad-Pro-12.9-landscape-view_(1024x1366).png)
 <hr />
 
