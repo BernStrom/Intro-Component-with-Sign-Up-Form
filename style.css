@@ -97,6 +97,9 @@ form {
 .failed {
     border: 1px solid hsl(0, 100%, 74%);
     background-color: hsla(354, 100%, 66%, .3);
+    background-image: url("images/icon-error.svg");
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
 }
   
 .error-txt {
