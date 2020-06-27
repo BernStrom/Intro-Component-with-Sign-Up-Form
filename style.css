@@ -52,7 +52,11 @@ main {
 .top-submit-btn:hover {
     background-color: hsl(249, 10%, 26%);
 }
-  
+
+.top-submit-btn:active {
+    background: hsl(248, 32%, 49%);
+}
+
 .top-submit-btn span {
     font-weight: 400;
 }
@@ -137,7 +141,11 @@ form {
 .btm-submit-btn:hover {
     background-color: hsl(154, 59%, 71%);
 }
-  
+
+.btm-submit-btn:active {
+    background: hsl(154, 59%, 51%);
+}
+
 .input-form p {
     font-size: 0.7rem;
     color: hsl(246, 25%, 77%);
