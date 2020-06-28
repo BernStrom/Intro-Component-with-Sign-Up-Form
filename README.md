@@ -56,15 +56,15 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 ## :camera_flash: Screenshots of Responsive Design
 
 #### Phone (iPhone 11 Pro @ 375 x 812)
-![Page preview on ](./screenshots/iPhone-11-Pro_(375x812).png)
+![Page preview on iPhone 11 Pro](./screenshots/iPhone-11-Pro_(375x812).png)
 <hr />
 
 #### Tablet w/ device frame (iPad Pro 12.9 @ 1024 x 1366) (Landscape View)
-![Page preview on ](./screenshots/iPad-Pro-12.9-landscape-view_(1024x1366).png)
+![Page preview on iPad Pro 12.9 w/ device frame](./screenshots/iPad-Pro-12.9-landscape-view_(1024x1366).png)
 <hr />
 
 #### PC / Laptop w/ browser UI (Macbook Air @ 1440 x 900)
-![Page preview on ](./screenshots/MacBook-Air_(1440x900).png)
+![Page preview on Macbook Air w/ browser UI](./screenshots/MacBook-Air_(1440x900).png)
 <hr />
 
 ## :memo: License
