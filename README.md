@@ -15,7 +15,7 @@
 
 Thanks for checking out this project.
 
-This project was built on HTML5, CSS3 and ES6 Vanilla JavaScript.
+This project was built on HTML5, CSS3 and ES6+ vanilla JavaScript.
 
 ## Introduction
 
@@ -25,7 +25,7 @@ This project was obtained from a list of challenges by Frontend Mentor.
 
 ## Objectives of the project
 
-* Use semantic HTML5 markup. *Manage code readability, accessibility and SEO optimization of web page.*
+* Use semantic HTML5 markup. *Manage code readability, accessibility and SEO optimization of the web page.*
 
 * Style with reusable CSS classes. 
 
@@ -47,7 +47,7 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 
 * Media queries used to build the responsive design
 
-* DOM Manipulation and Event Handlers
+* Manipulation of the DOM by using JavaScript and Event Handlers.
 
 ## :bookmark: Attribution
 
