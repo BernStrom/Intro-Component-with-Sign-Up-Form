@@ -23,7 +23,7 @@ The Intro Component with Sign-Up Form is a project for practicing website layout
 
 This project was obtained from a list of challenges by Frontend Mentor.
 
-## Objectives of the project
+## :pushpin: Objectives of the project
 
 * Use semantic HTML5 markup. *Manage code readability, accessibility and SEO optimization of the web page.*
 
